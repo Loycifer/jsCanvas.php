@@ -7,25 +7,25 @@ A php object for quick JavaScript Canvas manipulation.
 
 
 #####Available Methods
--arc
--arcTo
--beginPath
--bezierCurveTo
--clearRect
--clip
--closePath
--drawImage
--fill
--fillRect
--lineTo
--moveTp
--rect
--restore
--rotate
--save
--scale
--setTransform
--stroke
--strokeRect
--transform
--translate
+- arc
+- arcTo
+- beginPath
+- bezierCurveTo
+- clearRect
+- clip
+- closePath
+- drawImage
+- fill
+- fillRect
+- lineTo
+- moveTp
+- rect
+- restore
+- rotate
+- save
+- scale
+- setTransform
+- stroke
+- strokeRect
+- transform
+- translate
