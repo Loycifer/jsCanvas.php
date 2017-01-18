@@ -18,7 +18,7 @@ A php object for quick JavaScript Canvas manipulation.
 - fill
 - fillRect
 - lineTo
-- moveTp
+- moveTo
 - rect
 - restore
 - rotate
